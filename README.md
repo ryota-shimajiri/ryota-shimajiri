@@ -4,7 +4,7 @@
 ## Portfolio
 https://ryota-shimajiri.github.io/portfolio/
 
-[![portfolio](img/portfolio.png)](https://ryota-shimajiri.github.io/portfolio/)
+[![portfolio](img/portfolio.png)](https://ryota-shimajiri.github.io/portfolio/){:target="_blank"}
 
 ## My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/shimajiri/posts.svg)](http://qiita.com/shimajiri)
