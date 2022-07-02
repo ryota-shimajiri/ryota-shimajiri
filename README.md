@@ -3,7 +3,7 @@
 https://ryota-shimajiri.github.io/portfolio/
 
 
-<a href="https://ryota-shimajiri.github.io/portfolio/"><img src="img/portfolio.png" width="500"></a>
+<a href="https://ryota-shimajiri.github.io/portfolio/"><img src="img/ポートフォリオ.png" width="500"></a>
 
 ## My Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/shimajiri/posts.svg)](http://qiita.com/shimajiri)
